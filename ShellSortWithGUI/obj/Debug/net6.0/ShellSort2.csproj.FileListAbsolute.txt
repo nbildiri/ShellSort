@@ -1,0 +1,15 @@
+C:\Users\student\Downloads\NinaBildirici_Queens\ShellSort2\ShellSort2\bin\Debug\net6.0\ShellSort2.exe
+C:\Users\student\Downloads\NinaBildirici_Queens\ShellSort2\ShellSort2\bin\Debug\net6.0\ShellSort2.deps.json
+C:\Users\student\Downloads\NinaBildirici_Queens\ShellSort2\ShellSort2\bin\Debug\net6.0\ShellSort2.runtimeconfig.json
+C:\Users\student\Downloads\NinaBildirici_Queens\ShellSort2\ShellSort2\bin\Debug\net6.0\ShellSort2.dll
+C:\Users\student\Downloads\NinaBildirici_Queens\ShellSort2\ShellSort2\bin\Debug\net6.0\ref\ShellSort2.dll
+C:\Users\student\Downloads\NinaBildirici_Queens\ShellSort2\ShellSort2\bin\Debug\net6.0\ShellSort2.pdb
+C:\Users\student\Downloads\NinaBildirici_Queens\ShellSort2\ShellSort2\obj\Debug\net6.0\ShellSort2.csproj.AssemblyReference.cache
+C:\Users\student\Downloads\NinaBildirici_Queens\ShellSort2\ShellSort2\obj\Debug\net6.0\ShellSort2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\student\Downloads\NinaBildirici_Queens\ShellSort2\ShellSort2\obj\Debug\net6.0\ShellSort2.AssemblyInfoInputs.cache
+C:\Users\student\Downloads\NinaBildirici_Queens\ShellSort2\ShellSort2\obj\Debug\net6.0\ShellSort2.AssemblyInfo.cs
+C:\Users\student\Downloads\NinaBildirici_Queens\ShellSort2\ShellSort2\obj\Debug\net6.0\ShellSort2.csproj.CoreCompileInputs.cache
+C:\Users\student\Downloads\NinaBildirici_Queens\ShellSort2\ShellSort2\obj\Debug\net6.0\ShellSort2.dll
+C:\Users\student\Downloads\NinaBildirici_Queens\ShellSort2\ShellSort2\obj\Debug\net6.0\ref\ShellSort2.dll
+C:\Users\student\Downloads\NinaBildirici_Queens\ShellSort2\ShellSort2\obj\Debug\net6.0\ShellSort2.pdb
+C:\Users\student\Downloads\NinaBildirici_Queens\ShellSort2\ShellSort2\obj\Debug\net6.0\ShellSort2.genruntimeconfig.cache
