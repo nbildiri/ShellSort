@@ -1,0 +1,12 @@
+C:\Users\student\Downloads\NinaBildirici_Queens\ShellSort\ShellSort\obj\Debug\ShellSort.csproj.AssemblyReference.cache
+C:\Users\student\Downloads\NinaBildirici_Queens\ShellSort\ShellSort\obj\Debug\ShellSort.csproj.SuggestedBindingRedirects.cache
+C:\Users\student\Downloads\NinaBildirici_Queens\ShellSort\ShellSort\obj\Debug\ShellSort.Form1.resources
+C:\Users\student\Downloads\NinaBildirici_Queens\ShellSort\ShellSort\obj\Debug\ShellSort.ShellSort.resources
+C:\Users\student\Downloads\NinaBildirici_Queens\ShellSort\ShellSort\obj\Debug\ShellSort.Properties.Resources.resources
+C:\Users\student\Downloads\NinaBildirici_Queens\ShellSort\ShellSort\obj\Debug\ShellSort.csproj.GenerateResource.cache
+C:\Users\student\Downloads\NinaBildirici_Queens\ShellSort\ShellSort\obj\Debug\ShellSort.csproj.CoreCompileInputs.cache
+C:\Users\student\Downloads\NinaBildirici_Queens\ShellSort\ShellSort\bin\Debug\ShellSort.exe.config
+C:\Users\student\Downloads\NinaBildirici_Queens\ShellSort\ShellSort\bin\Debug\ShellSort.exe
+C:\Users\student\Downloads\NinaBildirici_Queens\ShellSort\ShellSort\bin\Debug\ShellSort.pdb
+C:\Users\student\Downloads\NinaBildirici_Queens\ShellSort\ShellSort\obj\Debug\ShellSort.exe
+C:\Users\student\Downloads\NinaBildirici_Queens\ShellSort\ShellSort\obj\Debug\ShellSort.pdb
